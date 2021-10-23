@@ -1,6 +1,6 @@
 
 # f
-![AppVeyor](https://img.shields.io/appveyor/build/latenightdan/run-buddy?style=plastic)
+![AppVeyor](https://img.shields.io/appveyor/build/ fs / fs ?style=plastic)
  ## Description 
    d
 
