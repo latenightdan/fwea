@@ -1,6 +1,6 @@
 
 # f
-[![alt-text](https://img.shields.io/badgefd-egr-lightgrey)]
+![AppVeyor](https://img.shields.io/appveyor/build/latenightdan/run-buddy?style=plastic)
  ## Description 
    d
 
