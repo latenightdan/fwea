@@ -1,21 +1,22 @@
-# fds
+
+# Robot Gladiators
 
  ## Description 
-   sdf
+   A video game in which robots gladiate
 
  ## Installation 
-    sdf
+    Type npm install node.js and npm install inquirer into the folder you run the app from
 
 ## Usage 
-    sfd
+    Type node index into the console, then follow the prompts
 
 ## Contributions 
-    af
+    I did the whole thing
     
 ## Test App 
-     fa
+     It tests you
 ## Licenses:
 
-[![License](https://img.shields.io/badge/asfih-fweioah-wodifh-brightgreen)](ifaoh)
+[![License](https://img.shields.io/badge/MIT-Good-green)](https://www.youtube.com/watch?v=oorVWW9ywG0)
      
- ### ifaoh
+ ### https://www.youtube.com/watch?v=oorVWW9ywG0
